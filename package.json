@@ -1,0 +1,11 @@
+{
+  "name": "nanolib",
+  "version": "1.0.0",
+  "description": "Nano Library for building ui interfaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mukhammadyusuf Abdurakhimov",
+  "license": "ISC"
+}
