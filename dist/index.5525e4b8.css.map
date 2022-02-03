@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","sources":["src/styles/main.css"],"sourcesContent":["* {\n  padding: 0;\n  margin: 0;\n  box-sizing: border-box;\n}\n\n.app {\n  background-color: #333;\n  color: #fff;\n  padding: 12px;\n  margin: 0;\n}\n"],"names":[],"version":3,"file":"index.5525e4b8.css.map","sourceRoot":"/__parcel_source_root/"}
