@@ -5,6 +5,7 @@ export const createElement = ({
   jsxContent,
   className,
   style,
+  onClick,
 }) => {
   const element = document.createElement(type);
   element.insertAdjacentHTML("afterbegin", jsx(jsxContent));
@@ -16,5 +17,6 @@ export const createElement = ({
   if (style) {
     element.style.cssText = style;
   }
+  element.onclick = onClick;
   return element;
 };
